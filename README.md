@@ -10,8 +10,11 @@ press the "extensions" button on the left hand menu and download the extensions:
 
 Now for the important part, go to the top part of the screen and press Terminal -> New Terminal.
 In that terminal that just opened at the bottom, type the line:   node server.js
+
 If all went well, if you go to Google Chrome and check the address: http://127.0.0.1:5000/ you will see a nice message for you. 
 If you want to see how the JSONS work, look at the JSON file in the project and how it is connected in the server.js file, and go to the address http://127.0.0.1:5000/listings
-That covers some of the basic concepts of server hosting, webpage routing, and information display/transfer. Once you get that, later on it will be easy for you to see how JSONs can be pulled from various APIs and instantly displayed on your own computer projects. React and Express will come in later, all they do is make the data look pretty and not like a piece of shit when it is displayed, which is how websites look good even though they serve alot of different data. Hopefully you get it running and I didn't forget anything random and you get to have a basic understanding of everything. 
+That covers some of the basic concepts of server hosting, webpage routing, and information display/transfer. Once you get that, later on it will be easy for you to see how JSONs can be pulled from various APIs and instantly displayed on your own computer projects. 
+
+React and Express will come in later, all they do is make the data look pretty and not like a piece of shit when it is displayed, which is how websites look good even though they serve alot of different data. Hopefully you get it running and I didn't forget anything random and you get to have a basic understanding of everything. 
 
 
