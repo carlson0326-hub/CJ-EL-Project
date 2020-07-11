@@ -4,6 +4,10 @@ First off, download VS code from the Microsoft store. Hopefully your brain can u
 Then, go to the "source control" window on the left hand VS Code menu and press "clone repository."
 Press the green "code" button on Github, copy that link, and paste it into the bar that says "Provide Repository URL."
 
+Sorry I forgot to mention this, but you also have to go to https://nodejs.org/en/download/ and click on the windows install, and go through the process of installing node to 
+your computer. After you have it installed, test if it is working by opening your command line (go to the windows search bar and type cmd) and type "node -v" and "npm -v"
+They should both come up with the versions of node you just installed if the install worked correctly. 
+
 Now you have this project pulled into your computer and can see how a basic web app is setup using Node.js. We will implement
 React later but for now a simple understanding of Node and how it works to run servers is fine for the first day. While you're at it,
 press the "extensions" button on the left hand menu and download the extensions: "Debugger for Chrome," "Node.js extensions pack," "Node.js Modules Intellisense," "NPM commands," "NPM Support," and "NPM Intellisense" (I might be forgetting some but you can just easily download them later.)
